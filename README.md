@@ -84,6 +84,7 @@ for details on registration and commodity codes):
 ## Tools
 
 - [Civic AI](https://www.civiccontracts.com) — search federal, state, and local opportunities in plain English with alerts.
+- [Bidstage](https://bidstage.app) — matches EU (TED), UK, US federal (SAM.gov), Canadian and World Bank tender feeds to a company's capability profile, with fit scoring and a first-draft response.
 - [SAM.gov](https://sam.gov) — official registration and opportunity search.
 - [beta.SAM legacy resources](https://open.gsa.gov/) — GSA open technology and APIs.
 
