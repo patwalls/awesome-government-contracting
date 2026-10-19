@@ -83,9 +83,15 @@ for details on registration and commodity codes):
 
 ## Tools
 
+- [CCE GovCon Feeds](https://github.com/marketplace/actions/cce-govcon-feeds-apify) — GitHub Action that runs CCE Partners Apify Actors (SAM.gov opportunities, expiring contracts/recompetes, SEC Form D raises, federal award winners). Paid (your Apify token; pay-per-event).
 - [Civic AI](https://www.civiccontracts.com) — search federal, state, and local opportunities in plain English with alerts.
+- [Expiring Federal Contracts – Recompete Radar](https://apify.com/cce_partners/govcon-recompete-radar) — federal contracts ending in 3–18 months from USAspending.gov, with incumbent, value and any related SAM.gov notice; a saved monitor name returns only new or changed rows. Paid (Apify account, pay per row).
+- [Federal Contract Awards – New Winners Feed](https://apify.com/cce_partners/federal-contract-award-winners-feed) — feed of new federal contract award winners (USAspending.gov); a saved monitor name returns only new awards. Paid (Apify account; $0.01 start + $0.005 per award row).
+- [SEC Form D New Raises Feed](https://apify.com/cce_partners/sec-form-d-new-raises-feed) — new SEC Form D filings (private funding raises); a saved monitor name returns only new filings. Paid (Apify account, pay per filing).
 - [SAM.gov](https://sam.gov) — official registration and opportunity search.
+- [SAM.gov Scraper – New Contract Opportunity Alerts](https://apify.com/cce_partners/samgov-opportunity-radar) — SAM.gov opportunities by NAICS, set-aside, agency and state, exported to JSON/CSV or Sheets; a saved monitor name returns only new or amended notices. Paid (Apify account, pay per notice).
 - [beta.SAM legacy resources](https://open.gsa.gov/) — GSA open technology and APIs.
+
 
 ## Learning Resources
 
