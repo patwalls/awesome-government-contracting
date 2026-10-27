@@ -85,6 +85,7 @@ for details on registration and commodity codes):
 
 - [Civic AI](https://www.civiccontracts.com) — search federal, state, and local opportunities in plain English with alerts.
 - [SAM.gov](https://sam.gov) — official registration and opportunity search.
+- [SAM.gov Opportunities with Past Winners](https://apify.com/plainrecordlabs/federal-contract-opportunities) — open SAM.gov notices joined to past award winners from USAspending, as JSON or CSV. Paid on Apify, 2.50 to 3 USD per 1,000 notices.
 - [beta.SAM legacy resources](https://open.gsa.gov/) — GSA open technology and APIs.
 
 ## Learning Resources
