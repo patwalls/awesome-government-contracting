@@ -66,6 +66,7 @@ for details on registration and commodity codes):
 - [SAM.gov API](https://open.gsa.gov/api/) — entity, opportunity, and exclusion data.
 - [Data.gov Procurement](https://catalog.data.gov/dataset?q=procurement) — assorted open procurement datasets.
 - [Civic AI open data client](https://github.com/puremetall/civiccontracts-data) — Python + TypeScript client wrapping public contract data.
+- [Daily set-aside bids sample](https://nidhi-bhai.github.io/daily-leads/sam-gov-small-business-set-aside-bids-today/) — free daily list of the newest Total Small Business, 8(a), SDVOSB, WOSB and HUBZone notices; the full feed with contracting-officer emails is a [pay-per-row SAM.gov scraper](https://apify.com/prospect_antechamber/sam-gov-contract-opportunities).
 
 ## Small Business & Set-Aside Programs
 
