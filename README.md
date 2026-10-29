@@ -84,6 +84,7 @@ for details on registration and commodity codes):
 ## Tools
 
 - [Civic AI](https://www.civiccontracts.com) — search federal, state, and local opportunities in plain English with alerts.
+- [GovCon Software Index](https://govconsoftwareindex.com) — free, independent directory and published price index of software for small federal contractors.
 - [SAM.gov](https://sam.gov) — official registration and opportunity search.
 - [beta.SAM legacy resources](https://open.gsa.gov/) — GSA open technology and APIs.
 
