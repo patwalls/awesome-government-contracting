@@ -84,6 +84,7 @@ for details on registration and commodity codes):
 ## Tools
 
 - [Civic AI](https://www.civiccontracts.com) — search federal, state, and local opportunities in plain English with alerts.
+- [OppBeacon](https://oppbeacon.com) — SAM.gov alerts and AI bid/no-bid help for small federal contractors (free plan and 14-day trial; paid).
 - [SAM.gov](https://sam.gov) — official registration and opportunity search.
 - [beta.SAM legacy resources](https://open.gsa.gov/) — GSA open technology and APIs.
 
