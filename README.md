@@ -83,6 +83,7 @@ for details on registration and commodity codes):
 
 ## Tools
 
+- [BidWatch](https://bidwatch.saganbot.workers.dev) — daily email digest of matching SAM.gov notices (synonym-aware keywords, NAICS, place of performance, set-asides) with plain-English summaries and deadline tracking (freemium; waitlist).
 - [Civic AI](https://www.civiccontracts.com) — search federal, state, and local opportunities in plain English with alerts.
 - [SAM.gov](https://sam.gov) — official registration and opportunity search.
 - [beta.SAM legacy resources](https://open.gsa.gov/) — GSA open technology and APIs.
